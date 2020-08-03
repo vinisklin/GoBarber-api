@@ -5,6 +5,8 @@ build/
 tmp/*
 !tmp/.gitkeep
 
+ormconfig.json
+
 # Ignore test-related files
 /coverage.data
 /coverage/
